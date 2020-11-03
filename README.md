@@ -1,2 +1,2 @@
-## password-generator
-#Password Generator - Django Project 
+## Password Generator
+Password Generator - Django Project 
